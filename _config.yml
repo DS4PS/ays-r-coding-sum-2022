@@ -34,13 +34,16 @@ header:
   url: 
 - title: Course Schedule
   url: schedule/
+- title: iCourse 
+  url: https://gastate.view.usg.edu/d2l/home/2578896 
+- title: Issues
+  url: help/
 - title: Textbook
   url: https://ds4ps.org/dp4ss/
-#  url: textbook/
 - title: Resources
   url: resources/
-- title: Get Help
-  url: help/
+
+
 
 
 
