@@ -6,19 +6,19 @@
 
 # Site title and description
 title:              DS4PS
-description:        Intro. course in data-drive management
+description:        Intro course in data programming in R
 
 # Site subpath, e.g. /blog
-url :               "https://cssearcy.github.io"
-baseurl:            "/AYS-R-Coding-SPR-2020"
-course_url:         "https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020"
+url :               "http://ds4ps.org"
+baseurl:            "/ays-r-coding-sum-2022"
+course_url:         "http://ds4ps.org/ays-r-coding-sum-2022/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 
 # calendly app for virtual office hours
-calendly:  'https://calendly.com/lecy/15min'
+calendly:  ''
 
 # Header text on the left
 brand:
@@ -55,8 +55,8 @@ author:
 github_info:
     username:          cssearcy # Github location of the course
     branch:            master
-    website-repo:      AYS-R-Coding-SPR-2020
-    course-repo:       AYS-R-Coding-SPR-2020
+    website-repo:      ays-r-coding-sum-2022
+    course-repo:       ays-r-coding-sum-2022
 
 
 
