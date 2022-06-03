@@ -49,11 +49,11 @@ header:
 
 # Default author settings
 author:
-    name:       Cynthia Searcy
-    github:     cssearcy   # Github username for avatar
+    name:       Jamison Crawford
+    github:     jamisoncrawford   # Github username for avatar
 
 github_info:
-    username:          cssearcy # Github location of the course
+    username:          lecy # Github location of the course
     branch:            master
     website-repo:      ays-r-coding-sum-2022
     course-repo:       ays-r-coding-sum-2022
