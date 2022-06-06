@@ -32,16 +32,12 @@ brand:
 header:
 - title: Syllabus
   url: 
-- title: Course Schedule
+- title: Schedule
   url: schedule/
 - title: iCourse 
   url: https://gastate.view.usg.edu/d2l/home/2578896 
-- title: Issues
-  url: help/
-- title: Textbook
-  url: https://ds4ps.org/dp4ss/
-- title: Resources
-  url: resources/
+- title: GitHub Issues
+  url: https://github.com/DS4PS/ays-r-coding-sum-2022/issues
 
 
 
