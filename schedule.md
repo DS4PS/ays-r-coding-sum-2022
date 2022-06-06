@@ -348,7 +348,7 @@ There are several resources beyond the course's Syllabus, Schedule, and iCollege
 
 A repository, or "repo", is a central collection of code, data, images, and other files. This entire course is kept in a repo, e.g. Every repo also has an "Issues" page, allowing users to report bugs, dead links, etc. 
 
-At our **[Course Issues](https://github.com/cssearcy/AYS-R-Coding-SPR-2020/issues)** page, you can share questions, problematic code, errors, and more. All posts are public and replies are posted within 24 hours. However, highly detailed posts are strongly encouraged and should include the following:
+At our **[Course Issues](https://github.com/DS4PS/ays-r-coding-sum-2022/issues)** page, you can share questions, problematic code, errors, and more. All posts are public and replies are posted within 24 hours. The **[first pinned issue](https://github.com/DS4PS/ays-r-coding-sum-2022/issues/1)** on the Issues board has key tips on creating a quality post. However, highly detailed posts are strongly encouraged and should include the following:
 
 1. Title with clear information, such as week, lab, and/or question number
 2. Clearly stated intentions, expectations, unexpected results, and question(s)
@@ -386,7 +386,7 @@ Then, and only then, should you **[schedule an appointment on your instructor's 
 
 The following checklist will help you organize and prepare for success in this course.
 
-- [ ] [Read the Syllabus](https://ds4ps.org/cpp-526-spr-2020/) 
+- [ ] [Read the Syllabus](http://ds4ps.org/ays-r-coding-sum-2022/schedule/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 - [ ] Introduce Yourself on [iCollege](https://gastate.view.usg.edu/d2l/le/2578896/discussions/List) (See Below)
