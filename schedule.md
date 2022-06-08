@@ -1527,7 +1527,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-05-v2-LastName.zip?raw=true')">LAB-05 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/ays-r-coding-sum-2022/blob/main/labs/Lab-05-v3_LastName.zip?raw=true')">LAB-05 Template</a>
 
 ## Submit Solutions to iCollege
 
