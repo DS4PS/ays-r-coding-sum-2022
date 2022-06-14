@@ -1615,7 +1615,7 @@ The following checklist will help you stay organized in your sixth week.
 
 - [ ] Complete Assigned Readings: [Merging Data](http://ds4ps.org/dp4ss-textbook/p-076-merging-data.html) 
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 06](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-06-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 06](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/Lab-06-Instructions_v3.html) (See Below)
 - [ ] (Recommended) Begin [Final Code-Through Project](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/code-through-assignment.html)
 - [ ] (Recommended) Begin [Final Dashboard Project](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/final-project-instructions.html)
 
@@ -1688,7 +1688,7 @@ Do you think open source frameworks would help open the black box and make gover
 
 This lab is designed to introduce you to primary data join functions in R.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-06-instructions_v3.html')">LAB-06 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/Lab-06-Instructions_v3.html')">LAB-06 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
