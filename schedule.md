@@ -1103,7 +1103,7 @@ The following checklist will help you stay organized in your third week.
 
 - [ ] Complete Assigned Readings: [The plot() Function](http://ds4ps.org/dp4ss-textbook/p-061-plot-basics.html) & [Building Custom Graphics](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 03](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-03-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 03](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-03-instructions_v3.html) (See Below)
 - [ ] (Recommended) Read [Intro. to Data Viz](http://ds4ps.org/dp4ss-textbook/p-060-intro-to-data-viz.html)
 
 <br>
@@ -1135,7 +1135,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 ## Lab-03 - Graphics
 
-This lab is designed to introduce you to core visualization functions by replicating an elaborate graphic.
+This lab is designed to introduce you to core visualization functions by replicating a fairly elaborate graphic.
 
 We recommend you **skim** the chapters on graphing functions and custom graphics in R. 
 
@@ -1144,7 +1144,7 @@ We recommend you **skim** the chapters on graphing functions and custom graphics
 
 Code is provided to get you started, but you will have to use documentation and the web to push the boundaries of your new knowledge of these functions.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-03-instructions.html')">LAB-03 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-03-instructions_v3.html')">LAB-03 Instructions</a>
 
 Click to download the lab template. Modify and submit using the instructions.
 
