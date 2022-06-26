@@ -1295,7 +1295,7 @@ The following checklist will help you stay organized in your fourth week.
 
 - [ ] Complete Assigned Readings: [Notes on R Shiny](https://github.com/DS4PS/cpp-526-spr-2020/raw/master/lectures/shiny-widgets.pdf), [Dynamic Graph Example](https://shiny.rstudio.com/gallery/kmeans-example.html), [Widgets Gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
 - [ ] Post & Exchange on Discussion Topic, 20 Points Max (See Below)
-- [ ] Complete & Submit [Lab 04](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-04-instructions.html) (See Below)
+- [ ] Complete & Submit [Lab 04](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/Lab-04-Instructions-v3.html) (See Below)
 - [ ] (Recommended) Videos
 - [ ] (Recommended) Familiarize Yourself with the [Final Dashboard Project](https://ds4ps.org/cpp-526-spr-2020/labs/final-project-instructions.html)
 
@@ -1332,13 +1332,13 @@ This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-
 
 This lab is designed to introduce you to R Shiny by making last week's graphic interactive and dynamic.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-04-instructions.html')">LAB-04 Instructions</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/Lab-04-Instructions-v3.html')">LAB-04 Instructions</a>
 
 Click to download the lab template.
 
 **Note:** Rather than submitting a PDF or HTML file, please submit only the R or R Markdown file.  *Please ignore the boilerplate directions in this week's assignment*.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-04-v2-LastName.zip?raw=true')">LAB-04 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/Lab-04-LastName-all-v3.zip?raw=true')">LAB-04 Template</a>
 
 ## Submit Solutions to iCollege
 
