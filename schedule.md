@@ -1148,7 +1148,7 @@ Code is provided to get you started, but you will have to use documentation and 
 
 Click to download the lab template. Modify and submit using the instructions.
 
-<a class="uk-button uk-button-default" onclick="window.open('https://github.com/DS4PS/cpp-526-sum-2020/blob/master/labs/cpp-526_reformatted-labs/Lab-03-v2-LastName.zip?raw=true')">LAB-03 Template</a>
+<a class="uk-button uk-button-default" onclick="window.open('https://github.com/cssearcy/AYS-R-Coding-SPR-2020/blob/master/LABS/Lab-03-v3-LastName.zip?raw=true')">LAB-03 Template</a>
 
 ## Submit Solutions to iCollege
 
